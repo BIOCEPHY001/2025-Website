@@ -1,0 +1,69 @@
+.body {
+    background-color: #C6E6FB;
+}
+.Title {
+    font-family: "Oswald", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+}
+
+.birthday-cake {
+    font-family: "Oswald", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;   
+}
+
+#list-items {
+    font-family: "Oswald", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;  
+}
+
+#imageitems {
+    height: 200px;
+    width: 200px;
+    border-radius: 20%;
+}
+
+#cakeone {
+    height: 300px;
+    width: 300px;
+    border-radius: 10%;
+}
+
+#gifts {
+    font-family: "Oswald", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal; 
+}
+
+#para {
+    font-family: "Oswald", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal; 
+}
+
+#material {
+    color: darkblue;
+}
+
+#location {
+    color: darkblue;
+}
+
+#movies {
+    color: darkblue;
+}
+
+#books {
+    color: darkblue;
+}
+
+#quote {
+    color: darkblue;
+}
